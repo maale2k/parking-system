@@ -1,0 +1,3 @@
+a,reg,Available
+abc123,ab,occupied
+8,,Available

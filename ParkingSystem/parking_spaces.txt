@@ -1,0 +1,7 @@
+L1-01,Regular,Available
+L1-02,Regular,Occupied
+L1-03,Regular,Available
+L2-01,Reserved,Available
+L2-02,Reserved,Available
+E1-01,Electric,Available
+E1-02,Electric,Occupied

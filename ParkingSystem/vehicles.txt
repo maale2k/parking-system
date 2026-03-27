@@ -1,0 +1,10 @@
+ABC123,Toyota Corolla,White
+XYZ789,Honda Civic,Black
+LMN456,Proton Saga,Silver
+JKL321,Perodua Myvi,Blue
+DEF555,Nissan Almera
+RedZA123,toyota,blue
+WB1234,toyota,white
+ML012,toyota,blue
+MN123,toyota,blue
+PO123,toyota,blue
